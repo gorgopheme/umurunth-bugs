@@ -5,4 +5,4 @@
         |     | | \/ |  |     | |  \  |     | |  \ |      |    |   |        
  /       `._.'  /    /   `._.'  /   \  `._.'  |   \|      /    /   /       /
 
-A public bug and feature request tracker for the inannaic game Umurunth.
+This repository is here to track bugs and feature requests for the inannaic game Umurunth.
